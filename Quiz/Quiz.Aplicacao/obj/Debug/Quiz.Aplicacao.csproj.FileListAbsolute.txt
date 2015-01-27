@@ -1,0 +1,17 @@
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Quiz.Aplicacao.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Quiz.Aplicacao.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Quiz.Dominio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Quiz.Repositorio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\StructureMap.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\FluentNHibernate.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\NHibernate.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Iesi.Collections.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Quiz.Dominio.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Quiz.Repositorio.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\FluentNHibernate.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\FluentNHibernate.xml
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\NHibernate.xml
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\bin\Debug\Iesi.Collections.xml
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\obj\Debug\Quiz.Aplicacao.csprojResolveAssemblyReference.cache
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\obj\Debug\Quiz.Aplicacao.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Aplicacao\obj\Debug\Quiz.Aplicacao.pdb

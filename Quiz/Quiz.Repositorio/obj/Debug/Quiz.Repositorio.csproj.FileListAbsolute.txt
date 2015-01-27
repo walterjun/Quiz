@@ -1,0 +1,15 @@
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\Quiz.Repositorio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\Quiz.Repositorio.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\FluentNHibernate.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\Iesi.Collections.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\NHibernate.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\Quiz.Dominio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\StructureMap.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\Quiz.Dominio.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\FluentNHibernate.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\FluentNHibernate.xml
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\Iesi.Collections.xml
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\bin\Debug\NHibernate.xml
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\obj\Debug\Quiz.Repositorio.csprojResolveAssemblyReference.cache
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\obj\Debug\Quiz.Repositorio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Repositorio\obj\Debug\Quiz.Repositorio.pdb

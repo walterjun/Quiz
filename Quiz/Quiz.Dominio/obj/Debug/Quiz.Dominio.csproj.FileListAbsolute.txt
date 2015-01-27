@@ -1,0 +1,4 @@
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Dominio\bin\Debug\Quiz.Dominio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Dominio\bin\Debug\Quiz.Dominio.pdb
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Dominio\obj\Debug\Quiz.Dominio.dll
+C:\sistemas\quiz\Quiz\Quiz\Quiz.Dominio\obj\Debug\Quiz.Dominio.pdb
